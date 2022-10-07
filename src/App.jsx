@@ -5,6 +5,8 @@ import Aos from 'aos';
 import 'aos/dist/aos.css';
 import Base from './component/layout/Base';
 import Home from './pages/Home';
+import React, { useEffect, useState } from "react";
+import Faq from "react-faq-component";
 
 
 function App() {
