@@ -17,19 +17,19 @@ export default function
 <h1>
     Read Our Documents
 </h1>
-<div className='d-flex my-5'>
+<div className='d-flex flex-wrap my-5'>
 
-<div className='d-flex'>
-<BsFillCheckCircleFill size="50px" color='orange'/> 
+<div className='d-flex '>
+<BsFillCheckCircleFill size="30px" color='orange'/> 
 <h1>KYC</h1>
 </div>
 <div className='d-flex mx-5 '>
-<BsFillCheckCircleFill size="50px"  color='orange'/> 
+<BsFillCheckCircleFill size="30px"  color='orange'/> 
 <h1>Audit</h1>
 </div>
 <div className='d-flex'>
-<BsFillCheckCircleFill size="50px" color='orange' /> 
-<h1>WhitePaper</h1>
+<BsFillCheckCircleFill size="30px" color='orange' /> 
+<h1>Paper</h1>
 </div> 
 </div>
 
@@ -40,7 +40,7 @@ export default function
   <ul className="dropdown-content dropdown-menu-white ">
     <li><a className="dropdown-item active" href="#">KYC</a></li>
     <li><a className="dropdown-item" href="#">Audit</a></li>
-    <li><a className="dropdown-item" href="#">Whitepaper</a></li>
+    <li><a className="dropdown-item" href="#">Paper</a></li>
     
   </ul>
 </div>
