@@ -31,7 +31,7 @@ export default function () {
     <AiFillTwitterCircle size={40} color="light-blue" />
         </div>
         <div className="col-md-6">
-        <a className="navbar-brand" href="#"><img src="assets/10001.png" alt=" "width={380} /></a>
+        <a className="navbar-brand" href="#"><img src="assets/10001.png" alt=" "width={350} /></a>
 
         </div>
 
